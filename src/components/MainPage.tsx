@@ -476,7 +476,7 @@ const MainPage: React.FC = () => {
             {[
               { 
                 title: "Venue", 
-                content: "St. Joseph's College of Engineering\n Reporting Time: 8:00 P.M", 
+                content: "St. Joseph's College of Engineering\n Reporting Time: 8:00 A.M", 
                 icon: MapPin, 
                 color: "gold",
                 detail: ""
